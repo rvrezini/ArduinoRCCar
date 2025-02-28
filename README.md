@@ -1,26 +1,22 @@
 # ArduinoRCCar
-A RC car using Arduino Nano and HC Bluetooth module connected to smartphone to control.
-
-
-<a id="readme-top"></a>
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/rvrezini]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/rvrezini/ArduinoRCCar">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  </div>
+
+A RC car using Arduino Nano and HC Bluetooth module connected to smartphone to control.
+</div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 <div align="center">
     <img src="images/image2.jpeg" alt="RCcar" width="300">
-
+    <p>
     An Arduino-based remote-controlled (RC) car that combines electronics, coding, and robotics to create a fun and customizable vehicle. This project is perfect for hobbyists, students, and makers looking to explore wireless communication, motor control, and sensor integration.
+    </p>
 </div>
 
 ## ✨ Features
