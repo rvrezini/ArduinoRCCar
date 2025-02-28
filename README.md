@@ -38,6 +38,10 @@ A RC car using Arduino Nano and HC Bluetooth module connected to smartphone to c
 ## 📜 How It Works
 The Arduino receives commands from the **Bluetooth RC Car** app via the HC-05/HC-06 module and translates them into motor movements for the L293d Motor Drivers. Additional sensors can be integrated for autonomous features.
 
+<video controls width="250">
+  <source src="/images/video.mp4" type="video/mp4" />
+</video>
+
 ## 🚀 Getting Started
 1. Assemble the Chassis with the DC Motors and Wheels.  
 2. Assemble the Motos Drivers, Bluetooth Module, Arduino Nano and the Battery Pack to the chassis
@@ -45,6 +49,10 @@ The Arduino receives commands from the **Bluetooth RC Car** app via the HC-05/HC
 3. Pair your phone with the Bluetooth module.  
 4. Open the **Bluetooth RC Car** app and connect to the car.  
 5. Start driving your RC car! 🚗💨  
+
+<div align="center">
+    <img src="images/image1.jpeg" alt="RCcar chassis" width="300">
+</div>
 
 ---
 
